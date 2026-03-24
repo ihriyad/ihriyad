@@ -1,68 +1,62 @@
 <div align="center">
 
-# Hi there, I'm Imdadul Haque Riyad 👋
-### Frontend Developer · MERN Stack Learner · Passionate Builder
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark" />
+# Hello, I'm Imdadul Haque Riyad
+### Web Developer · MERN Stack Learner · Passionate Builder
 
 </div>
-
 <br/>
 
 ---
 
-## ⚡ About Me
+## About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+Hi! I'm Riyad, a passionate Web Developer from Bangladesh 🇧🇩.  
 
-Hi! I'm *Imdadul*, a passionate *Frontend Developer* from *Bangladesh 🇧🇩*.  
-
-- 🌱 Currently learning *React.js* and working toward the *MERN Stack*  
-- 💻 Focused on building *fast, clean, and responsive web apps*  
-- 🚀 Believe in *learning by doing projects*  
-- 📱 Interested in *Android Development* in the future
-
-
-<br clear="right"/>
-
+-  Currently learning React.js and working toward the MERN Stack. 
+-  Focused on building fast, clean, and responsive web apps. 
+-  Believe in learning by doing projects.  
+-  Interested in Android Development in the future.
 ---
 
-## 🎨 Frontend Skills
+## Currant Skills
 
 <div align="center">
 
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark" />
 
 <br/><br/>
 
+### Tools
 
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm,vite&theme=dark" />
 
 </div>
 
-
 ---
-## 🌐 Connect With Me
+## Top Projects 
+
+<table>
+  <tr>
+    <td>
+      <a href="https://ihriyad.github.io/ph-payoo-mobile-bank/" target="_blank">Payoo Mobile</a>
+    </td>
+    <td>
+      <a href="https://ihriyad.github.io/English-Janala/" target="_blank">English Janala</a>
+    </td>
+    <td>
+      <a href="https://ihriyad.github.io/B13-A4-PH-Job-Tracker/" target="_blank">Job Tracker</a>
+    </td>  
+  </tr>
+</table>
+
+## Connect Me
 
 <div align="center">
-
-<a href="https://github.com/ihriyad" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-circle&logo=github&logoColor=white" width="80"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/ihriyad" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-circle&logo=linkedin&logoColor=white" width="80"/>
-</a>
-&nbsp;
-<a href="https://fb.com/ihriyad007" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat-circle&logo=facebook&logoColor=white" width="80"/>
-</a>
-
+<a href="https://linkedin.com/in/ihriyad" target="_blank">Linkedin</a>
+<br>
+<a href="https://fb.com/ihriyad007" target="_blank">Facebook</a>
+<br>
+<a href="https://www.instagram.com/ihriyad007/" target="_blank">Instagram</a>
 </div>
 
 
