@@ -16,9 +16,9 @@ Hi! I'm Riyad, a passionate Web Developer from Bangladesh 🇧🇩.
 -  Focused on building fast, clean, and responsive web apps. 
 -  Believe in learning by doing projects.  
 -  Interested in Android Development in the future.
----
 
-## Currant Skills
+
+## Current Skills
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Hi! I'm Riyad, a passionate Web Developer from Bangladesh 🇧🇩.
 
 </div>
 
----
+
 ## Top Projects 
 
 <table>
@@ -49,6 +49,7 @@ Hi! I'm Riyad, a passionate Web Developer from Bangladesh 🇧🇩.
   </tr>
 </table>
 
+
 ## Connect Me
 
 <div align="center">
@@ -58,6 +59,5 @@ Hi! I'm Riyad, a passionate Web Developer from Bangladesh 🇧🇩.
 <br>
 <a href="https://www.instagram.com/ihriyad007/" target="_blank">Instagram</a>
 </div>
-
 
 
