@@ -10,7 +10,7 @@
 
 </div>
 
-Social Links
+## Social Links
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihriyad)
@@ -21,7 +21,7 @@ Social Links
 
 ---
 
-## 💫 About Me
+##  About Me
 <table border="0">
   <tr>
     <td width="60%">
@@ -52,6 +52,7 @@ Social Links
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 
 **Tools & Workflow**
 
@@ -69,9 +70,10 @@ Social Links
 ## 📂 Developed Projects
 | Project Name | Technology | Interactive Links |
 | :--- | :---: | :--- |
-| **Payoo Mobile Bank** | `JS` `DaisyUi` | [🌐 Live Demo](https://ihriyad.github.io/ph-payoo-mobile-bank/) • [📁 Source](https://github.com/ihriyad/ph-payoo-mobile-bank) |
+| **DIgitool Platform** | `React` `Api` `DaisyUi` `Tailwindcss` | [🌐 Live Demo](http://digitool-platform.surge.sh/) • [📁 Source](https://github.com/ihriyad/Digitool-Platform) |
+| **Job Tracker** | `Js` `Api` `Tailwindcss` | [🌐 Live Demo](https://ihriyad.github.io/B13-A4-PH-Job-Tracker/) • [📁 Source](https://github.com/ihriyad/B13-A4-PH-Job-Tracker) |
 | **English Janala** | `JS` `Api` `Tailwind` | [🌐 Live Demo](https://ihriyad.github.io/English-Janala/) • [📁 Source](https://github.com/ihriyad/English-Janala) |
-| **Job Tracker** | `Js` `Api` | [🌐 Live Demo](https://ihriyad.github.io/B13-A4-PH-Job-Tracker/) • [📁 Source](https://github.com/ihriyad/B13-A4-PH-Job-Tracker) |
+| **Payoo Mobile Bank** | `JS` `DaisyUi` `css` | [🌐 Live Demo](https://ihriyad.github.io/ph-payoo-mobile-bank/) • [📁 Source](https://github.com/ihriyad/ph-payoo-mobile-bank) |
 
 ---
 
