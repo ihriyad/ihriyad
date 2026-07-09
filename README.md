@@ -1,93 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Imdadul%20Haque%20Riyad&fontSize=50&fontColor=fff&fontAlignY=40&desc=✦%20Web%20Developer%20%20·%20%20MERN%20Stack%20Learner%20%20·%20%20Passionate%20Builder%20✦&descAlignY=62&descSize=15&descColor=cce8ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Imdadul%20Haque%20Riyad&fontSize=44&fontColor=fff&fontAlignY=38&desc=Web%20Developer%20|%20MERN%20Stack&descAlignY=58&descSize=16&descColor=cce8ff" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Web+Developer;Building+with+React+%2B+Next.js;Full-Stack+in+Progress+(MERN)" />
 
 </div>
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4500&pause=1500&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=60&lines=Building+Responsive+Websites;JavaScript+%7C+React+%7C+Next.js;On+the+Journey+to+Full+MERN+Stack;Learning+by+Shipping+Real+Projects)](https://git.io/typing-svg)
+### Connect with me
 
-</div>
-
-## Social Links
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihriyad)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ihriyad007)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ihriyad007)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihriyad)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/ihriyad007)
 
 ---
 
-##  About Me
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p>Hi! I'm <strong>Riyad</strong>, a passionate Web Developer from Bangladesh 🇧🇩.</p>
-      <ul>
-        <li>🔭 <strong>Learning:</strong> Advanced React.js and Node.js (MERN).</li>
-        <li>⚡ <strong>Focus:</strong> Crafting responsive and clean UI/UX.</li>
-        <li>🌱 <strong>Belief:</strong> "Learning by doing" is the ultimate growth hack.</li>
-        <li>📱 <strong>Roadmap:</strong> Aspiring Android Developer.</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXNmdXN5ZWF6bm96Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-    </td>
-  </tr>
+### About Me
+
+I'm Riyad, a Web Developer from Bangladesh 🇧🇩 focused on building full-stack applications with the MERN stack. I care about writing clean, readable code and turning rough ideas into interfaces that actually feel good to use. Outside of client work, I'm usually deep in a side project, breaking things on purpose just to learn how they're put back together.
+
+**Currently:**
+- 🚀 Building **StartupForge** — a full-stack platform for founders and collaborators to team up on startup ideas
+- 📚 Digging deeper into Next.js App Router, server actions, and role-based architecture
+- 🔐 Getting comfortable with Better Auth and Stripe integrations in production apps
+- 🎯 Sharpening backend fundamentals — MongoDB aggregation pipelines, Express API design
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm" />
+
+
+---
+
+### Projects
+
+<table>
+<tr>
+<td width="30%"><b>Digitool Platform</b><br/><sub>Digital product marketplace UI</sub></td>
+<td width="40%">
+<img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat&logo=daisyui&logoColor=white"/>
+</td>
+<td width="30%">
+<a href="http://digitool-platform.surge.sh/"><img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=flat&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/ihriyad/Digitool-Platform"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td><b>Job Tracker</b><br/><sub>Track job applications end to end</sub></td>
+<td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</td>
+<td>
+<a href="https://ihriyad.github.io/B13-A4-PH-Job-Tracker/"><img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=flat&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/ihriyad/B13-A4-PH-Job-Tracker"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td><b>English Janala</b><br/><sub>Vocabulary learning app with API data</sub></td>
+<td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</td>
+<td>
+<a href="https://ihriyad.github.io/English-Janala/"><img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=flat&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/ihriyad/English-Janala"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td><b>Payoo Mobile Bank</b><br/><sub>Mobile banking UI concept</sub></td>
+<td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat&logo=daisyui&logoColor=white"/>
+</td>
+<td>
+<a href="https://ihriyad.github.io/ph-payoo-mobile-bank/"><img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=flat&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/ihriyad/ph-payoo-mobile-bank"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+### GitHub Stats
 
 <div align="center">
 
-**Frontend Development**
 
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 
-**Tools & Workflow**
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ihriyad)
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
-[![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ihriyad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 
 </div>
 
 ---
-
-## 📂 Developed Projects
-| Project Name | Technology | Interactive Links |
-| :--- | :---: | :--- |
-| **DIgitool Platform** | `React` `Api` `DaisyUi` `Tailwindcss` | [🌐 Live Demo](http://digitool-platform.surge.sh/) • [📁 Source](https://github.com/ihriyad/Digitool-Platform) |
-| **Job Tracker** | `Js` `Api` `Tailwindcss` | [🌐 Live Demo](https://ihriyad.github.io/B13-A4-PH-Job-Tracker/) • [📁 Source](https://github.com/ihriyad/B13-A4-PH-Job-Tracker) |
-| **English Janala** | `JS` `Api` `Tailwind` | [🌐 Live Demo](https://ihriyad.github.io/English-Janala/) • [📁 Source](https://github.com/ihriyad/English-Janala) |
-| **Payoo Mobile Bank** | `JS` `DaisyUi` `css` | [🌐 Live Demo](https://ihriyad.github.io/ph-payoo-mobile-bank/) • [📁 Source](https://github.com/ihriyad/ph-payoo-mobile-bank) |
-
----
-
-## 📊 GitHub Stats
-
 
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ihriyad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
+<sub>Thanks for stopping by — always open to a chat about code.</sub>
 </div>
-
----
-<div align="center"> 
---Thanks for visiting my Github Profile--
-</div>
-
